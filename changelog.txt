@@ -1,0 +1,16 @@
+04 Jan 2023:
+
+created changelog
+	text file detailing all the changes commited
+
+created gameMultimediaDoc
+	word file detailing various aspects about the game we're creating
+	I think this document seeks to answer questions that I have about the game currently, namely:
+		What is the actual game concept? What game are we making? Is it a Mario 3D in a Spiritfarer skin? Is it Spiritfarer in a Mario type setting?
+		What are the game flow mechanics/what does a typical level look like/what is the typical game loop? Does our protagonist go through obstacles to reach a goal? How open is a level/open world ("hop world" doesn't count)
+
+created levelProtype/world0-2.blend
+	blender file prototyping what world0-2 could look like
+	
+created fileStructure
+	text file with example file structures in other game projects
